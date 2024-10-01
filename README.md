@@ -1,0 +1,1 @@
+En este repositorio se encuentran diversos ejercicios destinados a trabajar la logica de programacion, desde lo mas sencillo como la implementacion de Ifs hasta bucles, funciones y arreglos utilizando como lenguaje de programacion C#.
